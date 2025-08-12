@@ -1,11 +1,11 @@
 # Guia de Desenvolvimento para Trainee
 
-## 1. Exercício diário: CSSBattle  
+## Exercício diário: CSSBattle  
 - **Descrição**: Resolva **ao menos um desafio por dia** em [CSSBattle](https://cssbattle.dev/) para melhorar suas habilidades em layouts CSS eficientes, posicionamento, pseudo-elementos e otimização de código.
 
-## 2. Projetos Figma (ordenados por complexidade)
+---
 
-### 1. 🎮 Tic Tac Toe com Voz e Feedback do Computador
+## 1. 🎮 Tic Tac Toe com Voz e Feedback do Computador
 
 Este é um jogo de **Tic Tac Toe** (Jogo do Galo) desenvolvido em **React**, com interface moderna inspirada no [design no Figma](https://www.figma.com/design/mHpnLMwTEDLXoDQQNpBbZN/Tic-Tac-Toe-Game-UI--Community-?t=5GGtCNfv3ZQ59n4F-0).  
 
