@@ -1,0 +1,38 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_29_22)">
+<rect width="1920" height="1080" fill="url(#paint0_linear_29_22)"/>
+<g style="mix-blend-mode:screen" opacity="0.08">
+<path d="M1082 546L879 343" stroke="#C68907" stroke-width="72" stroke-linecap="round"/>
+<path d="M879 546L1082 343" stroke="#C68907" stroke-width="72" stroke-linecap="round"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.21">
+<path d="M2013 1040L1772 799" stroke="#C68907" stroke-width="82" stroke-linecap="round"/>
+<path d="M1772 1040L2013 799" stroke="#C68907" stroke-width="82" stroke-linecap="round"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.32">
+<circle cx="632" cy="15" r="145" stroke="#400CB9" stroke-width="100"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.21">
+<path d="M114 252L-89 49" stroke="#C68907" stroke-width="72" stroke-linecap="round"/>
+<path d="M-89 252L114 49" stroke="#C68907" stroke-width="72" stroke-linecap="round"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.33">
+<circle cx="15.5" cy="770.5" r="98.5" stroke="#F9BE3E" stroke-width="80"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.32">
+<circle cx="1478" cy="-48" r="145" stroke="#400CB9" stroke-width="100"/>
+</g>
+<g style="mix-blend-mode:screen" opacity="0.32">
+<circle cx="1893" cy="356" r="145" stroke="#400CB9" stroke-width="100"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_29_22" x1="960" y1="0" x2="960" y2="1080" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A949F2"/>
+<stop offset="1" stop-color="#3304B3"/>
+</linearGradient>
+<clipPath id="clip0_29_22">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
