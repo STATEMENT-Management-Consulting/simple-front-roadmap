@@ -7,7 +7,7 @@ interface LayoutProps {
 export function Layout({ children }: LayoutProps) {
   return (
     <div
-      className="flex items-center justify-center min-h-screen"
+      className="flex  justify-center min-h-screen"
       style={{
         backgroundImage: "url(/assets/Thumbnail.svg)",
         backgroundRepeat: "no-repeat",

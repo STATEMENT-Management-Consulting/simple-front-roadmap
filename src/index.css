@@ -11,3 +11,16 @@ button {
 button.primary {
   @apply bg-gradient-to-r from-[#E6BA5A] to-[#ECAF2D]  w-full max-w-[343px] flex items-center justify-center gap-2 p-3 rounded-full;
 }
+
+button.small {
+  border: 2px solid white;
+  @apply p-2 bg-[#400CB9] rounded-lg;
+}
+
+button.small *,
+svg.primary * {
+  path: #ecaf2d;
+  stroke: #ecaf2d;
+  fill: #ecaf2d;
+  color: #ecaf2d;
+}
